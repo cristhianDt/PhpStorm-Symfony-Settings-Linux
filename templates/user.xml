@@ -49,4 +49,11 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="set" value="{% set $VARNAME$ = $VARVALUE$ %}$END$" description="create twig var" toReformat="true" toShortenFQNames="true">
+    <variable name="VARNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARVALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
