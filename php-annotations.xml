@@ -35,7 +35,7 @@
           <option name="className" value="Swagger\Annotations" />
         </UseAliasOption>
         <UseAliasOption>
-          <option name="alias" value="ODM" />
+          <option name="alias" value="MongoDB" />
           <option name="className" value="Doctrine\ODM\MongoDB\Mapping\Annotations" />
         </UseAliasOption>
       </list>
