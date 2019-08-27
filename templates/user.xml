@@ -56,4 +56,13 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="clg" value="console.log($MSG$, $VAR$);" description="Console log" toReformat="true" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
