@@ -46,4 +46,8 @@
   <template name="verb" value="{% verbatim %}&#10;    $END$&#10;{% endverbatim %}" description="verbatim...endverbatim" toReformat="false" toShortenFQNames="false">
     <context />
   </template>
+  <template name="if" value="{% if $CONDITION$ %}&#10;    $END$&#10;{% endif %}" description="if...endif" toReformat="true" toShortenFQNames="false">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
