@@ -1,7 +1,7 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1581430730367" actual="0" highlighted="true" highlightingtype="Red" title="En el histórico de tareas, colocar el link del documento -de tener-, al descargar el archivo CSV y/o XLS" description="" />
+      <task priority="Important" completed="true" estimated="0" created="1581430730367" actual="0" highlighted="true" highlightingtype="Red" title="En el histórico de tareas, colocar el link del documento -de tener-, al descargar el archivo CSV y/o XLS" description="" />
       <task priority="Normal" completed="true" estimated="0" created="1581430745956" actual="0" highlighted="false" highlightingtype="Red" title="Filtrar en el histórico de tareas por geozona y descargar el nombre de esta en el reporte." description="" />
       <task priority="Questionable" completed="false" estimated="0" created="1581430757353" actual="0" highlighted="false" highlightingtype="Red" title="Hora máxima de permitir agendar tareas para el siguiente día, para ello la hora máxima serán las 16:30" description="" />
       <task priority="Normal" completed="false" estimated="0" created="1581431128172" actual="0" highlighted="false" highlightingtype="Red" title="-&gt; Bugs" description="">
