@@ -85,5 +85,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="signature_pad" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_signature_pad@2.2.0_dist_signature_pad.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_signature_pad@2.2.0_dist_signature_pad.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
