@@ -79,4 +79,11 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
+  <template name="block_twig" value="{% block $BLOCKNAME$ %}&#10;    $BLOCKBODY$&#10;{% endblock %}" description="call block snippet" toReformat="true" toShortenFQNames="true">
+    <variable name="BLOCKNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="BLOCKBODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
