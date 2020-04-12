@@ -86,4 +86,11 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="trans_gg" value="{% trans into app.user.language.id %}$MSG${% endtrans %}" description="Translate Text calling app user language" toReformat="true" toShortenFQNames="true">
+    <variable name="MSG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
