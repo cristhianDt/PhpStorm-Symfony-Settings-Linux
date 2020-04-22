@@ -21,6 +21,7 @@
         <task priority="Normal" completed="false" estimated="0" created="1587504850772" actual="0" highlighted="false" highlightingtype="Red" title="Renderizado - HistForm" description="">
           <task priority="Normal" completed="false" estimated="0" created="1587528171337" actual="0" highlighted="false" highlightingtype="Red" title="Impedir edit/ limpiar firma despues de enviada" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1587531436369" actual="0" highlighted="false" highlightingtype="Red" title="Indicar donde guardar las imagenes" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1587586112357" actual="0" highlighted="false" highlightingtype="Red" title="Obtener datos de una matrix dinamica - ticket" description="https://surveyjs.answerdesk.io/ticket/details/T1691/save-entire-survey-including-results" />
         </task>
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1587515344375" actual="0" highlighted="false" highlightingtype="Red" title="Create Advanced Forms Historical" description="" />
