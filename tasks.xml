@@ -14,6 +14,9 @@
         <task priority="Normal" completed="false" estimated="0" created="1587504838117" actual="0" highlighted="false" highlightingtype="Red" title="Creator" description="">
           <task priority="Normal" completed="false" estimated="0" created="1587504907169" actual="0" highlighted="false" highlightingtype="Red" title="Ocultar las propiedades al campo de texto" description="quitar las propiedades de mes, contraseña, rango, semana, tiempo, color" />
           <task priority="Normal" completed="false" estimated="0" created="1587514018531" actual="0" highlighted="false" highlightingtype="Red" title="Pendiente añadir las opciones de configuraciones" description="POST" />
+          <task priority="Normal" completed="false" estimated="0" created="1587530235667" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos del CLIENTE" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1587530247852" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la VISITA" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1587530253555" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la TAREA" description="" />
         </task>
         <task priority="Normal" completed="false" estimated="0" created="1587504850772" actual="0" highlighted="false" highlightingtype="Red" title="Renderizado - HistForm" description="">
           <task priority="Normal" completed="false" estimated="0" created="1587528171337" actual="0" highlighted="false" highlightingtype="Red" title="Impedir edit/ limpiar firma despues de enviada" description="" />
