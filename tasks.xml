@@ -13,10 +13,10 @@
       <task priority="Important" completed="false" estimated="0" created="1587504811045" actual="0" highlighted="false" highlightingtype="Red" title="Survey" description="">
         <task priority="Normal" completed="false" estimated="0" created="1587504838117" actual="0" highlighted="false" highlightingtype="Red" title="Creator" description="">
           <task priority="Normal" completed="false" estimated="0" created="1587504907169" actual="0" highlighted="false" highlightingtype="Red" title="Ocultar las propiedades al campo de texto" description="quitar las propiedades de mes, contraseña, rango, semana, tiempo, color" />
-          <task priority="Normal" completed="false" estimated="0" created="1587514018531" actual="0" highlighted="false" highlightingtype="Red" title="Pendiente añadir las opciones de configuraciones" description="POST" />
+          <task priority="Normal" completed="true" estimated="0" created="1587514018531" actual="0" highlighted="false" highlightingtype="Red" title="Pendiente añadir las opciones de configuraciones" description="POST" />
           <task priority="Normal" completed="false" estimated="0" created="1587530235667" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos del CLIENTE" description="">
             <task priority="Normal" completed="false" estimated="0" created="1587600456316" actual="0" highlighted="false" highlightingtype="Red" title="Ocultar propiedad Data" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1587600479877" actual="0" highlighted="false" highlightingtype="Red" title="Crear nueva propiedad semejante a DATA para el valor por defecto, pero debe ser de tipo dropwon" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1587600479877" actual="0" highlighted="false" highlightingtype="Red" title="Crear nueva propiedad semejante a DATA para el valor por defecto, pero debe ser de tipo dropwon" description="" />
           </task>
           <task priority="Normal" completed="false" estimated="0" created="1587530247852" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la VISITA" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1587530253555" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la TAREA" description="" />
@@ -26,9 +26,10 @@
           <task priority="Normal" completed="false" estimated="0" created="1587528171337" actual="0" highlighted="false" highlightingtype="Red" title="Impedir edit/ limpiar firma despues de enviada" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1587531436369" actual="0" highlighted="false" highlightingtype="Red" title="Indicar donde guardar las imagenes" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1587586112357" actual="0" highlighted="false" highlightingtype="Red" title="Obtener datos de una matrix dinamica - ticket" description="https://surveyjs.answerdesk.io/ticket/details/T1691/save-entire-survey-including-results" />
+          <task priority="Normal" completed="false" estimated="0" created="1587845022493" actual="0" highlighted="false" highlightingtype="Red" title="Client Component" description="" />
         </task>
       </task>
-      <task priority="Normal" completed="false" estimated="0" created="1587515344375" actual="0" highlighted="false" highlightingtype="Red" title="Create Advanced Forms Historical" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1587515344375" actual="0" highlighted="false" highlightingtype="Red" title="Update Forms Historical" description="Dependiendo si el HistForm tiene verdadero la propiedad &amp;quot;survey&amp;quot;, llamar la otra ruta." />
     </tasks>
   </component>
 </application>
