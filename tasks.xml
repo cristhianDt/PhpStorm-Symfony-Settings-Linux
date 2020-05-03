@@ -34,6 +34,10 @@
         </task>
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1587515344375" actual="0" highlighted="false" highlightingtype="Red" title="Update Forms Historical" description="Dependiendo si el HistForm tiene verdadero la propiedad &amp;quot;survey&amp;quot;, llamar la otra ruta." />
+      <task priority="Important" completed="false" estimated="0" created="1588519730059" actual="0" highlighted="true" highlightingtype="Red" title="Ticket 20142 - new Role Agent" description="Crear nuevo rol &amp;quot;Agente&amp;quot;">
+        <task priority="Normal" completed="false" estimated="0" created="1588519758661" actual="0" highlighted="true" highlightingtype="Red" title="Visible only to company with &quot;technicals&quot; module active" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1588519773540" actual="0" highlighted="false" highlightingtype="Red" title="Redirect user to situation tasks" description="" />
+      </task>
     </tasks>
   </component>
 </application>
