@@ -14,22 +14,24 @@
         <task priority="Normal" completed="false" estimated="0" created="1587504838117" actual="0" highlighted="false" highlightingtype="Red" title="Creator" description="">
           <task priority="Normal" completed="false" estimated="0" created="1587504907169" actual="0" highlighted="false" highlightingtype="Red" title="Ocultar las propiedades al campo de texto" description="quitar las propiedades de mes, contraseña, rango, semana, tiempo, color" />
           <task priority="Normal" completed="true" estimated="0" created="1587514018531" actual="0" highlighted="false" highlightingtype="Red" title="Pendiente añadir las opciones de configuraciones" description="POST" />
-          <task priority="Normal" completed="false" estimated="0" created="1587530235667" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos del CLIENTE" description="">
-            <task priority="Normal" completed="false" estimated="0" created="1587600456316" actual="0" highlighted="false" highlightingtype="Red" title="Ocultar propiedad Data" description="" />
+          <task priority="Normal" completed="true" estimated="0" created="1587530235667" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos del CLIENTE" description="">
+            <task priority="Normal" completed="true" estimated="0" created="1587600456316" actual="0" highlighted="false" highlightingtype="Red" title="Ocultar propiedad Data" description="" />
             <task priority="Normal" completed="true" estimated="0" created="1587600479877" actual="0" highlighted="false" highlightingtype="Red" title="Crear nueva propiedad semejante a DATA para el valor por defecto, pero debe ser de tipo dropwon" description="" />
           </task>
-          <task priority="Normal" completed="false" estimated="0" created="1587530247852" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la VISITA" description="" />
-          <task priority="Normal" completed="false" estimated="0" created="1587530253555" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la TAREA" description="" />
+          <task priority="Normal" completed="true" estimated="0" created="1587530247852" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la VISITA" description="" />
+          <task priority="Normal" completed="true" estimated="0" created="1587530253555" actual="0" highlighted="false" highlightingtype="Red" title="Crear widget para datos de la TAREA" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1587588990597" actual="0" highlighted="false" highlightingtype="Red" title="Traducir, cambiar textos" description="traducir PROPERTIES&#10;cambiar CAJA DE HERRAMIENTAS por CAMPOS&#10;traducir Input title here&#10;traducir Enter a description" />
           <task priority="Normal" completed="false" estimated="0" created="1587918649392" actual="0" highlighted="false" highlightingtype="Red" title="Campo Imagen" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1588969939742" actual="0" highlighted="false" highlightingtype="Red" title="Create &quot;ref&quot; boolean property" description="Esto es para indicar que el valor del campo se usará como referencia / filtro en la busqueda de formularios." />
+          <task priority="Normal" completed="false" estimated="0" created="1588969967185" actual="0" highlighted="false" highlightingtype="Red" title="Create &quot;sendCopy&quot; boolean property" description="Si está activo se usa el correo ingresado para enviarle copia del PDF." />
         </task>
         <task priority="Normal" completed="false" estimated="0" created="1587504850772" actual="0" highlighted="false" highlightingtype="Red" title="Renderizado - HistForm" description="">
           <task priority="Normal" completed="false" estimated="0" created="1587528171337" actual="0" highlighted="false" highlightingtype="Red" title="Impedir edit/ limpiar firma despues de enviada" description="" />
           <task priority="Normal" completed="true" estimated="0" created="1587531436369" actual="0" highlighted="false" highlightingtype="Red" title="Indicar donde guardar las imagenes" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1587586112357" actual="0" highlighted="false" highlightingtype="Red" title="Obtener datos de una matrix dinamica - ticket" description="https://surveyjs.answerdesk.io/ticket/details/T1691/save-entire-survey-including-results" />
-          <task priority="Normal" completed="false" estimated="0" created="1587845022493" actual="0" highlighted="false" highlightingtype="Red" title="Client Component" description="">
-            <task priority="Normal" completed="false" estimated="0" created="1588179385032" actual="0" highlighted="false" highlightingtype="Red" title="Load fields information - to edit / creat HistForm" description="" />
-            <task priority="Normal" completed="false" estimated="0" created="1588179410785" actual="0" highlighted="false" highlightingtype="Red" title="Write fields information, saving HistForm - Survey structure" description="" />
+          <task priority="Normal" completed="true" estimated="0" created="1587845022493" actual="0" highlighted="false" highlightingtype="Red" title="Client Component" description="">
+            <task priority="Normal" completed="true" estimated="0" created="1588179385032" actual="0" highlighted="false" highlightingtype="Red" title="Load fields information - to edit / creat HistForm" description="" />
+            <task priority="Normal" completed="true" estimated="0" created="1588179410785" actual="0" highlighted="false" highlightingtype="Red" title="Write fields information, saving HistForm - Survey structure" description="" />
           </task>
         </task>
         <task priority="Questionable" completed="false" estimated="0" created="1588819115072" actual="0" highlighted="false" highlightingtype="Red" title="Renombrar archivo creator_customs_components.js a customs_components.js" description="" />
