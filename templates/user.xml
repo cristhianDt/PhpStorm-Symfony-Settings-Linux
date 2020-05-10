@@ -15,7 +15,8 @@
       <option name="PHP Statement" value="true" />
     </context>
   </template>
-  <template name="ifelse" value="{% if  %}&#10;    $TRUE$&#10;{% else %}&#10;    $FALSE$&#10;{% endif %}" description="If with else" toReformat="true" toShortenFQNames="true">
+  <template name="ifelse" value="{% if $COND1$ %}&#10;    $TRUE$&#10;{% else %}&#10;    $FALSE$&#10;{% endif %}" description="If with else" toReformat="true" toShortenFQNames="true">
+    <variable name="COND1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TRUE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FALSE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -23,8 +24,10 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="ifelseif" value="{% if  %}&#10;    $TRUE$&#10;{% elseif %}&#10;    $OTHERTRUE$&#10;{% else %}&#10;    $FALSE$&#10;{% endif %}" description="If with elseif" toReformat="true" toShortenFQNames="true">
+  <template name="ifelseif" value="{% if $COND1$ %}&#10;    $TRUE$&#10;{% elseif $COND2$ %}&#10;    $OTHERTRUE$&#10;{% else %}&#10;    $FALSE$&#10;{% endif %}" description="If with elseif" toReformat="true" toShortenFQNames="true">
+    <variable name="COND1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TRUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COND2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="OTHERTRUE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FALSE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
