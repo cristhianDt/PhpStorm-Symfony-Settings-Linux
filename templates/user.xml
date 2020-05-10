@@ -96,4 +96,13 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="include function" value="{{ include($TEMPLATE$, {$VARIABLES$}, with_context = $WITHCONTEXT$, ignore_missing = $IGNORE$) }}" description="Include function with parameters -&gt; template: The template to render variables: The variables to pass to the template with_context: Whether to pass the current context variables or not ignore_missing: Whether to ignore missing templates or not sandboxed: Whether to sandbox the template or no" toReformat="true" toShortenFQNames="true">
+    <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLES" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WITHCONTEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="IGNORE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
