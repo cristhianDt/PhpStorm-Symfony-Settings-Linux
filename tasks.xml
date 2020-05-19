@@ -39,6 +39,9 @@
           </task>
         </task>
         <task priority="Questionable" completed="false" estimated="0" created="1588819115072" actual="0" highlighted="false" highlightingtype="Red" title="Renombrar archivo creator_customs_components.js a customs_components.js" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1589900073957" actual="0" highlighted="false" highlightingtype="Red" title="JobController" description="">
+          <task priority="Normal" completed="false" estimated="0" created="1589900108162" actual="0" highlighted="false" highlightingtype="Red" title="Upgrade addComment2Form - check if HistForm is survey" description="" />
+        </task>
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1587515344375" actual="0" highlighted="false" highlightingtype="Red" title="Update Forms Historical" description="Dependiendo si el HistForm tiene verdadero la propiedad &amp;quot;survey&amp;quot;, llamar la otra ruta." />
       <task priority="Important" completed="true" estimated="0" created="1588519730059" actual="0" highlighted="true" highlightingtype="Red" title="Ticket 20142 - new Role Agent" description="Crear nuevo rol &amp;quot;Agente&amp;quot;">
