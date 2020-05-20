@@ -48,6 +48,7 @@
         <task priority="Normal" completed="true" estimated="0" created="1588519758661" actual="0" highlighted="true" highlightingtype="Red" title="Visible only to company with &quot;technicals&quot; module active" description="" />
         <task priority="Normal" completed="true" estimated="0" created="1588519773540" actual="0" highlighted="false" highlightingtype="Red" title="Redirect user to situation tasks" description="" />
       </task>
+      <task priority="Normal" completed="false" estimated="0" created="1590005713720" actual="0" highlighted="false" highlightingtype="Red" title="Update branch features/ticket-20653" description="Debo enviar la variable isUrgent a la cola que asigna la tarea por geozona, si la tarea es de prioridad URGENTE" />
     </tasks>
   </component>
 </application>
