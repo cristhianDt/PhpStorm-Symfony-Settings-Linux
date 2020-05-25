@@ -28,6 +28,8 @@
           <task priority="Normal" completed="false" estimated="0" created="1589212191290" actual="0" highlighted="false" highlightingtype="Red" title="Productos component" description="Que cargue todos los productos de la empresa.">
             <task priority="Normal" completed="false" estimated="0" created="1589212252257" actual="0" highlighted="false" highlightingtype="Red" title="Create filter by category question" description="Crear un booleano que permita indicar si los productos se deben filtar por categorias seleccionada previamente en una pregunta de tipo categories component" />
           </task>
+          <task priority="Normal" completed="false" estimated="0" created="1590418832400" actual="0" highlighted="false" highlightingtype="Red" title="Create widget QR reader" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1590418848304" actual="0" highlighted="false" highlightingtype="Red" title="Create - create client component" description="" />
         </task>
         <task priority="Normal" completed="true" estimated="0" created="1587504850772" actual="0" highlighted="false" highlightingtype="Red" title="Renderizado - HistForm" description="">
           <task priority="Normal" completed="true" estimated="0" created="1587528171337" actual="0" highlighted="false" highlightingtype="Red" title="Impedir edit/ limpiar firma despues de enviada" description="" />
@@ -49,6 +51,7 @@
         <task priority="Normal" completed="true" estimated="0" created="1588519773540" actual="0" highlighted="false" highlightingtype="Red" title="Redirect user to situation tasks" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1590005713720" actual="0" highlighted="false" highlightingtype="Red" title="Update branch features/ticket-20653" description="Debo enviar la variable isUrgent a la cola que asigna la tarea por geozona, si la tarea es de prioridad URGENTE" />
+      <task priority="Normal" completed="false" estimated="0" created="1590418936333" actual="0" highlighted="false" highlightingtype="Red" title="Enviar cualifications como array si hay o no enviar si no hay" description="" />
     </tasks>
   </component>
 </application>
