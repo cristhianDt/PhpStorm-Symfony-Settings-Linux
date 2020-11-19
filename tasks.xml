@@ -51,6 +51,10 @@
         <task priority="Normal" completed="true" estimated="0" created="1588519773540" actual="0" highlighted="false" highlightingtype="Red" title="Redirect user to situation tasks" description="" />
       </task>
       <task priority="Normal" completed="false" estimated="0" created="1590005713720" actual="0" highlighted="false" highlightingtype="Red" title="Update branch features/ticket-20653 - assign-taskby-geozone" description="Debo enviar la variable isUrgent a la cola que asigna la tarea por geozona, si la tarea es de prioridad URGENTE&#10;&#10;Enviar cualifications como array si hay o no enviar si no hay" />
+      <task priority="Normal" completed="false" estimated="0" created="1605797144343" actual="0" highlighted="false" highlightingtype="Red" title="Seguimiento de tickets" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1605797152757" actual="0" highlighted="false" highlightingtype="Red" title="tk - 23952" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1605797174080" actual="0" highlighted="false" highlightingtype="Red" title="tk - 23832" description="" />
+      </task>
     </tasks>
   </component>
 </application>
